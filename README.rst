@@ -1,7 +1,3 @@
-.. image:: https://raw.githubusercontent.com/pygobject/pycairo/main/docs/images/pycairo.svg
-   :align: center
-   :width: 370px
-
 |
 
 Pycairo is a Python module providing bindings for the `cairo graphics library
